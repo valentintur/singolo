@@ -1,0 +1,18 @@
+
+body{
+    max-width: 1020px;
+    margin: auto;
+}
+}
+.wrapper{
+    margin: auto;
+}
+.header{
+    background-color:#2d303a;
+}
+.slider{
+    background-color:#f06c64;
+}
+.services{
+    background-color:#f2f2f2;
+}
