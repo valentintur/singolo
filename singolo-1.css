@@ -2,8 +2,9 @@
 body{
     max-width: 1020px;
     margin: auto;
+    font-family: 'Lato', sans-serif;
 }
-}
+
 .wrapper{
     margin: auto;
 }
